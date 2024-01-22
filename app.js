@@ -25,8 +25,8 @@ var aNewName = "Tolu";
 // arrow functions
 // arrow functions enable us use a short syntax to write
 // functions without the function or return keywords
-let num1 = 20;
-let num2 = 25;
+let firstNum = 20;
+let secondNum = 25;
 function sum(num1, num2) {
     return num1 + num2;
 }
